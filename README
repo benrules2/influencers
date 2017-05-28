@@ -1,0 +1,7 @@
+A tool to detect external influencers in reddit...
+
+This looks at a subreddit's top posts, and gets a "fingerprint" of user statistics. This includes total karma by user, their number of interactions on the subreddit over the past 20 posts, and their number of interactions with other users on the subreddit.
+
+The niave idea being tested here is that if a marketer buys an account with minimal history in a given subreddit, it will stand out. Any early commenters also using purchased accounts will be caught by checking interactions with other users.
+
+Initial tests have had zero success from this hypothesis. Sharing just incase someone else can take it further.
