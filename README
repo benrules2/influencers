@@ -5,3 +5,5 @@ This looks at a subreddit's top posts, and gets a "fingerprint" of user statisti
 The niave idea being tested here is that if a marketer buys an account with minimal history in a given subreddit, it will stand out. Any early commenters also using purchased accounts will be caught by checking interactions with other users.
 
 Initial tests have had zero success from this hypothesis. Sharing just incase someone else can take it further.
+
+For more in depth instructions, see: http://www.cyber-omelette.com/2017/05/detecting-reddit-vote-manipulation.html 
